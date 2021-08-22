@@ -27,7 +27,7 @@ static void levelOrder(Node root){
      
      //if(queue==null){
       queue.add(root); 
-     //}
+    
       while(!queue.isEmpty()){
           Node current=queue.remove();
           System.out.println(current.data);
