@@ -1,0 +1,17 @@
+insert into STUDENTS  values(101,'FNAME1','LNAME2','CLASSA','14 Sam Lane PIN- 801425');
+insert into STUDENTS  values(102,'FNAME2','LNAME3','CLASSA','15 Sam Lane PIN 801426');
+insert into STUDENTS  values(103,'FNAME3','LNAME4','CLASSA','16 Sam Lane PIN 801427');
+insert into STUDENTS  values(104,'FNAME4','LNAME5','CLASSA','17 Sam Lane PIN 801428');
+insert into STUDENTS  values(105,'FNAME5','LNAME6','CLASSA','18 Sam Lane PIN 801429');
+insert into STUDENTS  values(106,'FNAME6','LNAME7','CLASSA','19 Sam Lane PIN 801430');
+insert into STUDENTS  values(107,'FNAME7','LNAME8','CLASSA','20 Sam Lane PIN 801431');
+insert into STUDENTS  values(208,'FNAME8','LNAME9','CLASSB','21 Sam Lane PIN 801432');
+insert into STUDENTS  values(209,'FNAME9','LNAME10','CLASSB','22 Sam Lane PIN 801433');
+insert into STUDENTS  values(210,'FNAME10','LNAME11','CLASSB','23 Sam Lane PIN 801434');
+insert into STUDENTS  values(211,'FNAME11','LNAME12','CLASSB','24 Sam Lane PIN 801435');
+insert into STUDENTS  values(212,'FNAME12','LNAME13','CLASSB','25 Sam Lane PIN 801436');
+insert into STUDENTS  values(213,'FNAME13','LNAME14','CLASSB','26 Sam Lane PIN 801437');
+insert into STUDENTS  values(214,'FNAME14','LNAME15','CLASSB','27 Sam Lane PIN 801438');
+insert into STUDENTS  values(115,'FNAME15','LNAME16','CLASSA','28 Sam Lane PIN 801439');
+insert into STUDENTS  values(116,'FNAME16','LNAME17','CLASSA','29 Sam Lane PIN 801440');
+insert into STUDENTS  values(117,'FNAME17','LNAME18','CLASSA','30 Sam Lane PIN 801441');
